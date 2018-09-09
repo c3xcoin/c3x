@@ -35,6 +35,24 @@ make:
 | POS          |   10%   |  from block 259201  |
 
 
+Configuration file
+______________
+
+
+| conn3x.conf        | 
+| ------------- |
+| rpcuser=c3xrpc           |
+| rpcpassword=x        |
+| rpcport=46055          | 
+| port=46044         |
+| dns=1          |
+| server=1          |
+| listen=1          |
+| daemon=1          |
+| dnsseed=1          |
+| discover=1          |
+
+
 Links
 -----
 
