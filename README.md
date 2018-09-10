@@ -25,7 +25,10 @@ make:
 | Algorithm           | X11 (PoW/PoS/MN)  | C3X |
 | Total Supply        | 500M    |  C3X  |
 | Masternode          | 100000  |  COLLATERAL  |
-| Circulation         | ~165M   |  C3X  |
+| Masternode          | 80%  |  from POS reward  |
+| Coin maturity: | Confirmation   | 20 blocks   |
+| Transaction | Confirmation   |  4 blocks  |
+| Transaction Fee | 0.001   |    |
 | Block size          |   2   |  MB  |
 | Block time          |   4   |  Min  |
 | POW          |   200 C3X   |  until block 129600  |
