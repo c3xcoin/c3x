@@ -54,6 +54,9 @@ ______________
 | daemon=1          |
 | dnsseed=1          |
 | discover=1          |
+| addnode=95.179.134.162          |
+| addnode=140.82.59.110          |
+| addnode=95.179.134.197          |
 
 
 Links
